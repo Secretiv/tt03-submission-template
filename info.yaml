@@ -28,19 +28,19 @@ documentation:
       Explain how your project works
 
 # Instructions on how someone could test your project, include things like what buttons do what and how to set the clock if needed
-  how_to_test: when select i give logic of 000 from select line I1 is trigger at 100 I2 is triggered at 001 I3 , 101 I4 and 111 I5 is triggered|
+  how_to_test: when select i give logic of 000 from S1 ,S2,S3 ,I1 is trigger at 100 I2 is triggered at 001 I3 , 101 I4 and 111 I5 is triggered|
       Explain how to test your project
 
 # A description of what the inputs do
   inputs:               
-    - select line 3
+    - S3
     - I1
     - I2
     - I3
     - I4
     - I5
-    - select line 1
-    - select line 2
+    - S1
+    - S2
 # A description of what the outputs do
   outputs:
     - segment a

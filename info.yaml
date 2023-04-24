@@ -19,7 +19,7 @@ yaml_version: 3.0
 # Here is a great example: https://github.com/davidsiaw/tt02-davidsiaw-stackcalc/blob/38c5647f83aad2aec675d566aa3d67b98f0aac81/info.yaml
 documentation: 
   author:       "saurabh kumar and diksha bothra "      # Your name
-  title:        " 5:1 mux "      # Project title
+  title:        "5:1 mux "      # Project title
   language:     "Wokwi" # other examples include Verilog, Amaranth, VHDL, etc
   description:  "it's 5 is to 1 mux which trigger only  one input and gives  output according to the select lines "      # Short description of what your project does
 
